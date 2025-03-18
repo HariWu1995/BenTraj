@@ -1,3 +1,4 @@
+# Mac
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
@@ -5,7 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#pyqt
+# PyQT5
 build-*/
 *.user
 
@@ -14,17 +15,15 @@ build-*/
 #*.xlsx
 *__temp*
 
-
 # C extensions
 *.so
 
 # Custom
-*.h5
-*.hdf5
+# *.h5
+# *.hdf5
 
 # idea
 .idea
-
 
 # Distribution / packaging
 .Python
