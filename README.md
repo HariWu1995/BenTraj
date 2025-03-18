@@ -84,6 +84,9 @@ python -m OpenTraj.ui.ui_qt \
         --dataset {eth/hotel} \
         --background {image/video}
 ``` 
+<p align='center'>
+  <img src='docs/figs/fig-opentraj-ui.gif' width='400px'\>
+</p>
 
 ### OpenCV
 
